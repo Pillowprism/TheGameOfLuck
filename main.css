@@ -1,0 +1,62 @@
+.*{
+  margin: 0;
+}
+.Titlemsg {
+  font-size: 18pt;
+  height: 80px;
+  font-weight: 550;
+  text-align:center;
+}
+.Mission {
+  padding: 5px 0px;
+  font-family: 나눔스퀘어,나눔고딕,돋움;
+  transition-duration: 150ms;
+  height: 40px;
+  margin: 0px auto;
+  font-size: 24pt;
+  font-weight: 400;
+  text-align: center;
+}
+.BlankAreaNextToMissions {
+  height: 90px;
+}
+.DoButton {
+  padding: 5px 0px;
+  font-family: 나눔스퀘어,나눔고딕,돋움;
+  border-radius: 4px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #000000;
+  cursor: pointer;
+  transition-duration: 150ms;
+  width: 120px;
+  padding: 36px auto;
+  margin: 0px auto;
+  font-size: 18pt;
+  font-weight: 550;
+  text-align: center;
+}
+.DoButton:hover {
+  background: #F4FFE0;
+  border-color: #D0FF80;
+}
+.DoButtonRed {
+  padding: 5px 0px;
+  font-family: 나눔스퀘어,나눔고딕,돋움;
+  border-radius: 4px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #000000;
+  cursor: wait;
+  transition-duration: 150ms;
+  width: 120px;
+  padding: 36px auto;
+  margin: 0px auto;
+  font-size: 18pt;
+  font-weight: 550;
+  text-align: center;
+}
+.DoButtonRed:hover {
+  background: #FFA6A6;
+  border-color: #FF7070;
+}
